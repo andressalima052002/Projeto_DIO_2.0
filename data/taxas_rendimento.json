@@ -1,0 +1,24 @@
+{
+  "data_atualizacao": "2024-05-01",
+  "taxas": {
+    "cdi_anual": 10.50,
+    "cdi_mensal": 0.83,
+    "poupanca_anual": 6.17,
+    "poupanca_mensal": 0.50,
+    "ipca_anual_projetado": 4.00
+  },
+  "produtos_sugeridos_renda_fixa": [
+    {
+      "nome": "CDB Liquidez Diária",
+      "rendimento": "100% do CDI",
+      "risco": "Baixo",
+      "recomendacao": "Fundo de Emergência e Metas de Curto Prazo (Viagem)"
+    },
+    {
+      "nome": "Tesouro IPCA+",
+      "rendimento": "IPCA + 5.5%",
+      "risco": "Baixo",
+      "recomendacao": "Metas de Longo Prazo (> 3 anos)"
+    }
+  ]
+}
