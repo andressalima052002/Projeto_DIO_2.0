@@ -1,0 +1,42 @@
+{
+  "usuario": {
+    "id": "USR-9982",
+    "nome": "Rafael Silva",
+    "idade": 28,
+    "renda_mensal_liquida": 5200.00
+  },
+  "fundo_emergencia": {
+    "alvo": 15000.00,
+    "acumulado": 3000.00,
+    "status": "Em construção"
+  },
+  "metas_ativas": [
+    {
+      "id_meta": 1,
+      "nome": "Troca de Carro (Seminovo)",
+      "valor_alvo": 35000.00,
+      "valor_acumulado": 12000.00,
+      "aporte_mensal_atual": 500.00,
+      "prazo_desejado_meses": 36,
+      "status": "No prazo"
+    },
+    {
+      "id_meta": 2,
+      "nome": "Viagem de Férias (Chile)",
+      "valor_alvo": 8000.00,
+      "valor_acumulado": 2500.00,
+      "aporte_mensal_atual": 300.00,
+      "prazo_desejado_meses": 12,
+      "status": "Atrasado"
+    },
+    {
+      "id_meta": 3,
+      "nome": "Reserva para Pós-Graduação",
+      "valor_alvo": 15000.00,
+      "valor_acumulado": 1000.00,
+      "aporte_mensal_atual": 200.00,
+      "prazo_desejado_meses": 48,
+      "status": "Iniciado recentemente"
+    }
+  ]
+}
