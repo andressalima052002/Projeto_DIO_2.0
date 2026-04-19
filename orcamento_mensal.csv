@@ -1,0 +1,8 @@
+data,categoria,descricao,valor_planejado,valor_gasto,status
+2024-05-01,Moradia,Aluguel e Condominio,1800.00,1800.00,No Orcamento
+2024-05-05,Alimentacao,Supermercado,800.00,850.00,Acima do Orcamento
+2024-05-10,Transporte,Combustivel e App,400.00,380.00,Abaixo do Orcamento
+2024-05-15,Assinaturas e Streaming,Netflix/Spotify/Academia,250.00,50.00,Economia
+2024-05-20,Lazer,Restaurantes e Saidas,500.00,450.00,Abaixo do Orcamento
+2024-05-25,Saude,Plano de Saude e Farmacia,300.00,300.00,No Orcamento
+2024-05-28,Vestuario,Roupas e Calcados,150.00,0.00,Economia
